@@ -10,7 +10,7 @@
     <a href="#branches">Padrões Branches</a> •
     <a href="#commits">Padrões Commits</a> •
     <a href="#fluxo-de-trabalho-com-git">Fluxo de Trabalho com GIT</a> •
-    <a href="#ferramentas">Ferramentas</a> •
+    <a href="#ferramentas-para-gerenciamento-git">Ferramentas</a> •
     <a href="#referências">Referências</a> •
     <a href="#autor">Autor</a>
 </p>
