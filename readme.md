@@ -50,7 +50,7 @@ Exemplos de alguns nomes de branches que podem existir em nossa aplicação:
 O código da tarefa no Jira é extremamente importante, ele ajuda autor e reviewer a localizarem o branch correto e também permite ao Jira linkar automaticamente um branch a uma tarefa, tornando o mesmo acessível a partir da tarefa:
 
 <p align="center">
-    <img alt="Card da tarefa no Jira" title="Card da tarefa no Jira" src="./assets/img/card-jira.webp" />
+    <img alt="Card da tarefa no Jira" title="Card da tarefa no Jira" width="950" src="./assets/img/card-jira.webp" />
 </p>
 
 # Commits
@@ -124,7 +124,7 @@ Aqui vou exemplificar uma sequência de alguns commits, comparando e mostrando a
 </p>
 
 <p align="center">
-    <img alt="Exemplo de commit semantico" title="Exemplo de commit semantico" width="800" src="./assets/img/exemplo-commit-2.png" />
+    <img alt="Exemplo de commit semantico" title="Exemplo de commit semantico" width="950" src="./assets/img/exemplo-commit-2.png" />
 </p>
 
 ### Conclusão
@@ -146,11 +146,11 @@ Mas...como organizar tudo?
 * [GitHub Flow](https://docs.github.com/pt/get-started/quickstart/github-flow) O fluxo de GitHub é um fluxo de trabalho leve e baseado no branch.
 
 <p align="center">
-    <img alt="GitHub Flow" title="GitHub Flow" src="./assets/img/github-flow.png" />
+    <img alt="GitHub Flow" title="GitHub Flow" width="900" src="./assets/img/github-flow.png" />
 </p>
 
 <p align="center">
-    <img alt="GitHub Flow" title="GitHub Flow" src="./assets/img/github-flow2.jpg" />
+    <img alt="GitHub Flow" title="GitHub Flow" width="900" src="./assets/img/github-flow2.jpg" />
 </p>
 
 ## Gitflow
