@@ -67,7 +67,7 @@ Você já tentou executar o comando git log em um de seus projetos antigos para 
 
 Existem várias convenções usadas por equipes diferentes para escrever boas mensagens de commit. Descreverei aqui apenas algumas regras gerais e dicas para escrever mensagens de commit – você tem de decidir qual convenção deseja seguir. Se trabalha para uma empresa ou se contribui para o código aberto, é preciso se adaptar a convenção utilizada.
 
-Algumas Convensões:
+Algumas Convenções:
 
 * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) A especificação Conventional Commits é uma convenção leve sobre as mensagens de commit.
 * [Angular Commit Message Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) Diretrizes de mensagem de confirmação Angular.
@@ -120,11 +120,11 @@ Aqui vou exemplificar uma sequência de alguns commits, comparando e mostrando a
 <p align="center"><sub>Exemplo de commit semantico</sub></p>
 
 <p align="center">
-    <img alt="Exemplo de commit semantico" title="Exemplo de commit semantico" src="./assets/img/exemplo-commit-semantico.jpeg" />
+    <img alt="Exemplo de commit semantico" title="Exemplo de commit semantico" width="550" src="./assets/img/exemplo-commit-semantico.jpeg" />
 </p>
 
 <p align="center">
-    <img alt="Exemplo de commit semantico" title="Exemplo de commit semantico" src="./assets/img/exemplo-commit-2.png" />
+    <img alt="Exemplo de commit semantico" title="Exemplo de commit semantico" width="800" src="./assets/img/exemplo-commit-2.png" />
 </p>
 
 ### Conclusão
@@ -191,7 +191,7 @@ Pequenas mudanças de um par de commits ou modificação de algumas linhas de c�
 O desenvolvimento baseado em tronco é hoje em dia o padrão para equipes de engenharia de alto desempenho, pois define e mantém uma cadência de lançamento de software usando uma estratégia simplificada de ramificação do Git. Além disso, o desenvolvimento baseado no central oferece às equipes de engenharia mais flexibilidade e controle sobre como entregam software para o usuário final.
 
 <p align="center">
-    <img alt="Trunk Based Development" title="Trunk Based Development" src="./assets/img/trunk-based-development.png" />
+    <img alt="Trunk Based Development" title="Trunk Based Development" width="700" src="./assets/img/trunk-based-development.png" />
 </p>
 
 ---
