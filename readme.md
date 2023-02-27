@@ -209,7 +209,7 @@ O desenvolvimento baseado em tronco é hoje em dia o padrão para equipes de eng
   * [Keep a Changelog](https://marketplace.visualstudio.com/items?itemName=RLNT.keep-a-changelog) Extensão do VS Code com snippets de changelog.
 
 * Versionamento
-  * [Versionamento Semântico 2.0.0](https://marketplace.visualstudio.com/items?itemName=RLNT.keep-a-changelog) Como uma solução para este problema proponho um conjunto simples de regras e requisitos que ditam como os números das versões são atribuídos e incrementados.
+  * [Versionamento Semântico 2.0.0](https://semver.org/lang/pt-BR/) Como uma solução para este problema proponho um conjunto simples de regras e requisitos que ditam como os números das versões são atribuídos e incrementados.
 
 * Clientes Git GUI
   * [Lista de Clientes Git GUI](https://www.hostinger.com.br/tutoriais/git-gui) Os Melhores Clientes Git GUI para Windows, Linux e Mac.
