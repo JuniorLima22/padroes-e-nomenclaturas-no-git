@@ -211,6 +211,10 @@ O desenvolvimento baseado em tronco é hoje em dia o padrão para equipes de eng
 * Versionamento
   * [Versionamento Semântico 2.0.0](https://semver.org/lang/pt-BR/) Como uma solução para este problema proponho um conjunto simples de regras e requisitos que ditam como os números das versões são atribuídos e incrementados.
 
+* Gitflow
+  * [Git Flow](https://marketplace.visualstudio.com/items?itemName=Serhioromano.vscode-gitflow) Git FLow Support for VS Code.
+  * [Git Flow](https://marketplace.visualstudio.com/items?itemName=vector-of-bool.gitflow) Gitflow integration for VS Code.
+
 * Clientes Git GUI
   * [Lista de Clientes Git GUI](https://www.hostinger.com.br/tutoriais/git-gui) Os Melhores Clientes Git GUI para Windows, Linux e Mac.
   * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) Extensão do VS Code, Histórico do Git, pesquisa e mais (incluindo git log).
